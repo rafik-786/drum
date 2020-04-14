@@ -53,6 +53,7 @@ footer {
 
 .pressed {
   box-shadow: 0 3px 4px 0 #dbedf3;
+  border-color: #da0463;
   opacity: 0.5;
 }
 
