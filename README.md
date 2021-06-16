@@ -1,2 +1,2 @@
-# drum
-sample project while learning
+# Project : Drum
+# checkout: https://rafik-786.github.io/drum/
